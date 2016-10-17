@@ -3,7 +3,7 @@
 
 /* appearance */
 static const char *fonts[] = {
-	"Tewi:size=9"
+	"Tewi2a:size=9"
 };
 static const char dmenufont[]       = "Tewi:size=9";
 static const char normbordercolor[] = "#444444";
