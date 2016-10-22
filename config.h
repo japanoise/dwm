@@ -3,9 +3,9 @@
 
 /* appearance */
 static const char *fonts[] = {
-	"Tewi2a:size=9"
+	"Tewi2a:pixelsize=9"
 };
-static const char dmenufont[]       = "Tewi:size=9";
+static const char dmenufont[]       = "Tewi2a:pixelsize=9";
 static const char normbordercolor[] = "#444444";
 static const char normbgcolor[]     = "#0a0f14";
 static const char normfgcolor[]     = "#98d1ce";
