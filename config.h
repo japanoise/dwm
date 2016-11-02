@@ -17,8 +17,8 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 0;        /* 0 means bottom bar */
 
-/* tagging */
-static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };
+/* tagging - vcn - ◯☆♡౿~◎↑ΩZ */
+static const char *tags[] = { "◯","☆","♡","౿","~","◎","↑","Ω","ずっと" };
 
 static const Rule rules[] = {
 	/* xprop(1):
