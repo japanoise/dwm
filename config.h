@@ -1,6 +1,4 @@
 /* See LICENSE file for copyright and license details. */
-#include "fibonacci.c"
-
 /* appearance */
 static const char *fonts[] = {
 	"Tewi2a:pixelsize=9:antialias=false"
