@@ -28,6 +28,7 @@ static const Rule rules[] = {
 	/* class      instance    title       tags mask     isfloating   monitor */
 	{ "Gimp",     NULL,       NULL,       0,            1,           -1 },
 	{ "chocolate-doom",     NULL,       NULL,       0,            1,           -1 },
+	{ "jetbrains-idea-ce",     NULL,       NULL,       0,            0,           0 },
 };
 
 /* layout(s) */
